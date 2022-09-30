@@ -14,7 +14,7 @@ Citation
 
 P. Duan, P. Ghamisi, X. Kang, B. Rasti, S. Li and R. Gloaguen, "Fusion of Dual Spatial Information for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 9, pp. 7726-7738, Sept. 2021, doi: 10.1109/TGRS.2020.3031928.
 
-    @article{9256984,
+    @article{FDSI,
       title     = {Fusion of Dual Spatial Information for Hyperspectral Image Classification},
       author    = {Duan, Puhong and Ghamisi, Pedram and Kang, Xudong and Rasti, Behnood and Li, Shutao and Gloaguen, Richard},
       journal   = {IEEE Transactions on Geoscience and Remote Sensing}, 
