@@ -26,4 +26,4 @@ P. Duan, P. Ghamisi, X. Kang, B. Rasti, S. Li and R. Gloaguen, "Fusion of Dual S
      }
 
 #
-The test image is available from this website: http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+The test image is available from this website: https://drive.google.com/file/d/10_J2hVgoLG1RY11-8eqDojZeg6PxY-JG/view?usp=share_link
