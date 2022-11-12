@@ -5,7 +5,7 @@
 ___________
 
 # Usage
-Run Demo.m matlab
+Before Run Demo.m matlab, Please download the test image
 
 Citation
 ---------------------
