@@ -8,6 +8,7 @@ addpath('SDSE');
 addpath('Datasets');
 addpath('SVM')
 addpath('ERW')
+addpath('drtoolbox')
 %% load data
 load PaviaU
 load Pavia_trainingtest.mat
@@ -26,7 +27,7 @@ t=0.3;% a tunable parameter
 Fuse_pro=t.*Pre_pro+(1-t).*Pos_pro;
 [Class_pro,Fuse_Result]=max(Fuse_pro,[],3);
 Result=reshape(Fuse_Result,[no_lines*no_rows 1]);
-GroudTest = double(test_labels(:,1));
+GroudTest = double(test_SL(2,:));
 ResultTest = Result(test_SL(1,:),:);
 %% Objective Evaluation
 [SVM_OA,SVM_AA,SVM_Kappa,SVM_CA]=confusion(GroudTest,ResultTest);
